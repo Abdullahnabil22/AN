@@ -1,0 +1,15 @@
+.tst::placeholder {
+  color: rgb(151, 151, 151) !important;
+  opacity: 1;
+}
+
+.counterEn {
+  margin-left: -19px;
+  padding-top: 30px;
+}
+.counterAr {
+  margin-right: -19px;
+  position: absolute;
+  z-index: 1;
+  padding-top: 1px;
+}

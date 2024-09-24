@@ -1,0 +1,7 @@
+.hover {
+  transition: scale 1 all linear;
+}
+
+.hover:hover {
+  scale: 1.2;
+}
